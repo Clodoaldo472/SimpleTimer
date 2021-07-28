@@ -1,2 +1,2 @@
-# Projeto
-Entrega parcial ..
+# SimpleTimer
+Um Timer feito em Python com Tkinter/grid.
